@@ -1,5 +1,8 @@
 ## Put comments here that give an overall description of what your
 ## functions do
+## These functions written in partial fulfillment of Coursera Data Science: R Programming 
+## GitHub user: heteyszabolcs
+
 
 ## Write a short comment describing this function
 
